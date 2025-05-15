@@ -13,10 +13,12 @@ My name is Luiz Cláudio (you can call me Luiz 😉 ), and I currently work (rem
 - TypeScript
 - React
 - Next.js
+- Node.js
+- Payload CMS
+- Sanity
 - CSS 3 / Responsive Design
 - Tests (Jest / React Testing Library)
 - React Native
-- Node.js
 
 ## Language (communication)
 
